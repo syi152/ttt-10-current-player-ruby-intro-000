@@ -3,6 +3,7 @@ def turn_count(board)
 board.each do |value|
 turn+=1
 end
+turn
 end
 
 def current_player(board)
