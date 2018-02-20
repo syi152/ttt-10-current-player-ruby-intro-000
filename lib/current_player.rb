@@ -13,5 +13,4 @@ if turn_count(board) % 2==0
 else
   "O"
 end
-
 end
