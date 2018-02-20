@@ -1,6 +1,8 @@
 def turn_count()
   turn=0
-do.each|array|
+if 
 turn+=1
 end
 end
+
+def 
