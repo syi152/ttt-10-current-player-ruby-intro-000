@@ -4,6 +4,7 @@ board.each do |value|
   if value!="" && value!=" "
 turn+=1
 end
+end
 turn
 end
 
