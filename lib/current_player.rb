@@ -6,3 +6,8 @@ end
 end
 
 def
+
+def current_player(board)
+
+
+end
